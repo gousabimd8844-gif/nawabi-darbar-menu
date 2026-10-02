@@ -1,4 +1,4 @@
-Category,Category Order,Category Active,Item,Item Order,Item Active,Full Price,Half Price,Quarter Price
+Category,Category Order,Category Active,Item,Item Order,Item Active,Regular Price,Half Price,Quarter Price
 Beverages,1,YES,WATER 1 lt,1,YES,20,,
 Beverages,1,YES,WATER 0.5lt,2,YES,10,,
 Beverages,1,YES,WATER 2lt,3,YES,35,,
